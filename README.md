@@ -1,1 +1,1 @@
-构建系统发育树的类群及其GenBank登入号
+构建系统发育树的类群及其GenBank登入号，其中New strain(GeneBank)为本论文新菌株的GeneBank号。
